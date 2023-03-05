@@ -13,3 +13,8 @@ https://skinny-promise-8a0.notion.site/cifar-10-bdf3dc834d824e82a5273bc382276368
 
 ## cifar10 cnn hyperparameter 에 따른 결과 참고
 pdf 형식으로 레포지토리 내에 저장되어 있습니다.
+
+
+## mnist cnn on CLI environment
+Window(GUI) 상에서 cifar10 dataset을 가지고 cnn 을 돌려보았었는데, 시간이 조금 남았어서 CLI환경(명령줄 인터페이스 Command-Line Interface) 에서 mnist 손글씨 dataset을 가지고 딥러닝을 돌려보고자 하였습니다. 자세한 설명은 아래 notion 페이지를 참고하시면 됩니다 : )  
+[https://skinny-promise-8a0.notion.site/MNIST-dataset-CNN-on-CLI-env-b4852ca7284c47ce9781581745f3140e](https://www.notion.so/MNIST-dataset-CNN-on-CLI-env-b4852ca7284c47ce9781581745f3140e)
